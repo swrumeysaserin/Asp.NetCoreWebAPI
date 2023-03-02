@@ -1,0 +1,12 @@
+C:\RumeysaProjeler\ArnGames\ArnGames.Entities\bin\Debug\net5.0\ArnGames.Entities.deps.json
+C:\RumeysaProjeler\ArnGames\ArnGames.Entities\bin\Debug\net5.0\ArnGames.Entities.dll
+C:\RumeysaProjeler\ArnGames\ArnGames.Entities\bin\Debug\net5.0\ref\ArnGames.Entities.dll
+C:\RumeysaProjeler\ArnGames\ArnGames.Entities\bin\Debug\net5.0\ArnGames.Entities.pdb
+C:\RumeysaProjeler\ArnGames\ArnGames.Entities\obj\Debug\net5.0\ArnGames.Entities.csproj.AssemblyReference.cache
+C:\RumeysaProjeler\ArnGames\ArnGames.Entities\obj\Debug\net5.0\ArnGames.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\RumeysaProjeler\ArnGames\ArnGames.Entities\obj\Debug\net5.0\ArnGames.Entities.AssemblyInfoInputs.cache
+C:\RumeysaProjeler\ArnGames\ArnGames.Entities\obj\Debug\net5.0\ArnGames.Entities.AssemblyInfo.cs
+C:\RumeysaProjeler\ArnGames\ArnGames.Entities\obj\Debug\net5.0\ArnGames.Entities.csproj.CoreCompileInputs.cache
+C:\RumeysaProjeler\ArnGames\ArnGames.Entities\obj\Debug\net5.0\ArnGames.Entities.dll
+C:\RumeysaProjeler\ArnGames\ArnGames.Entities\obj\Debug\net5.0\ref\ArnGames.Entities.dll
+C:\RumeysaProjeler\ArnGames\ArnGames.Entities\obj\Debug\net5.0\ArnGames.Entities.pdb
